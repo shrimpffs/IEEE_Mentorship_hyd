@@ -1,8 +1,11 @@
-read_liberty -lib cmos_cells.lib
-read_verilog design.sv
+read_liberty -lib sky130_fd_sc_hd__tt_025C_1v80.lib
+read_verilog fa.v
 synth -top fa
 #dfflibmap -liberty sky130_fd_sc_hd__tt_025C_1v80.lib
-abc -liberty cmos_cells.lib
+abc -liberty sky130_fd_sc_hd__tt_025C_1v80.lib
 clean
 flatten
-show -prefix ./netlist
+write_verilog -noattr netlist_fa.v
+tee -o ha.rpt stat -liberty sky130_fd_sc_hd__tt_025C_1v80.lib
+show -prefix ./netlist_flatten -format jpeg
+#!dot -Tpng netlist.dot -o netlist.png
