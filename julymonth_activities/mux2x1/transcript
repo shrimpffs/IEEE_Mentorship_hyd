@@ -1,0 +1,16 @@
+# vsim -c tb_mux2x1 
+# Start time: 20:06:42 on Jul 10,2024
+# Loading work.tb_mux2x1
+# Loading work.mux2x1
+# @time 0ns a=0, b=1, select=0, y=0
+# @time 5ns a=0, b=1, select=1, y=1
+# @time 10ns a=0, b=1, select=0, y=0
+# @time 15ns a=1, b=0, select=0, y=1
+# @time 20ns a=1, b=0, select=1, y=0
+# @time 25ns a=1, b=0, select=0, y=1
+# ** Note: $stop    : ./tb_mux2x1.v(25)
+#    Time: 30 ns  Iteration: 0  Instance: /tb_mux2x1
+# Break in Module tb_mux2x1 at ./tb_mux2x1.v line 25
+# Stopped at ./tb_mux2x1.v line 25
+# End time: 20:07:00 on Jul 10,2024, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 0

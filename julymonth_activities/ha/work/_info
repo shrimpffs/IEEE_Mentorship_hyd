@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/MYTHRI/Desktop/ha
+vha
+Z1 !s110 1720539240
+!i10b 1
+!s100 MBn4D]SMldIUkkEe]`5<T3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUDCOHHBd8@<4a5SCPOj<[1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1720538214
+8ha.v
+Fha.v
+!i122 7
+L0 1 6
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1720539240.000000
+!s107 tb.v|ha.v|
+Z6 !s90 ha.v|tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 ogm2QldNKhf9nN`f_3UBL2
+R2
+I0e7;G43ZSj8NJjPbl@Jm23
+R3
+R0
+w1720539235
+8tb.v
+Ftb.v
+!i122 7
+L0 2 19
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 tb.v|ha.v|
+R6
+!i113 1
+R7

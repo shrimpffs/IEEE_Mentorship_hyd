@@ -1,0 +1,15 @@
+# vsim -c tb 
+# Start time: 21:04:38 on Jul 09,2024
+# Loading work.tb
+# Loading work.ha
+# @time 0ns a=x b=x sumx co=x
+# @time 1ns a=0 b=0 sum0 co=0
+# @time 2ns a=0 b=1 sum1 co=0
+# @time 3ns a=1 b=0 sum1 co=0
+# @time 4ns a=1 b=1 sum0 co=1
+# ** Note: $stop    : tb.v(18)
+#    Time: 5 ns  Iteration: 0  Instance: /tb
+# Break in Module tb at tb.v line 18
+# Stopped at tb.v line 18
+# End time: 21:05:22 on Jul 09,2024, Elapsed time: 0:00:44
+# Errors: 0, Warnings: 0
