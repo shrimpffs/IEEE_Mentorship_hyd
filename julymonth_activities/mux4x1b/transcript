@@ -1,0 +1,7 @@
+# vsim -c tb_mux4x1b.v 
+# Start time: 18:45:32 on Jul 21,2024
+# ** Error (suppressible): (vsim-19) Failed to access library 'tb_mux4x1b' at "tb_mux4x1b".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 18:45:32 on Jul 21,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0

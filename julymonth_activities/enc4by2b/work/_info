@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/MYTHRI/Desktop/IEEE MENTORSHIP PROGRAMME/julymonth/enc4by2b
+vtb
+!s110 1721655186
+!i10b 1
+!s100 8E<`Q_<mLGe[TE;LCG_CH0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I93YhQFa4M;boc^Ue6M;Zm1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1721568302
+8.\tb_enc4by2b.v
+F.\tb_enc4by2b.v
+!i122 0
+L0 2 14
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1721655185.000000
+!s107 .\tb_enc4by2b.v|.\enc4by2b.v|
+!s90 .\enc4by2b.v|.\tb_enc4by2b.v|
+!i113 1
+tCvgOpt 0

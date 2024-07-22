@@ -1,0 +1,7 @@
+# vsim -c .\tb_fa4.v 
+# Start time: 20:09:07 on Jul 18,2024
+# ** Error (suppressible): (vsim-19) Failed to access library '' at "".
+# Invalid argument. (errno = EINVAL)
+# Error loading design
+# End time: 20:09:07 on Jul 18,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
